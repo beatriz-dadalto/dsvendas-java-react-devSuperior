@@ -1,6 +1,6 @@
 const DataTable = () => {
   return (
-    <div className="table-responsive">
+    <div className="table-responsive py-4">
       <table className="table table-striped table-sm">
         <thead>
           <tr>
