@@ -1,12 +1,12 @@
-import BarChart from "assets/components/BarChart";
-import DataTable from "assets/components/DataTable";
-import DonutChart from "assets/components/DonutChart";
-import Footer from "assets/components/Footer";
-import NavBar from "assets/components/NavBar/indext";
+import BarChart from 'assets/components/BarChart';
+import DataTable from 'assets/components/DataTable';
+import DonutChart from 'assets/components/DonutChart';
+import Footer from 'assets/components/Footer';
+import NavBar from 'assets/components/NavBar/indext';
 
 const Dashboard = () => {
   return (
-<>
+    <>
       <NavBar />
       <div className="container">
         <h1 className="text-primary py-5">Dashboard de Vendas</h1>
@@ -30,7 +30,7 @@ const Dashboard = () => {
       </div>
       <Footer />
     </>
-  )
-}
+  );
+};
 
 export default Dashboard;
