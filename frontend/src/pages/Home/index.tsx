@@ -17,8 +17,8 @@ const Home = () => {
             Esta aplicação consiste em exibir um dashboard a partir de dados
             fornecidos por um back end construído com Spring Boot.
           </p>
-          <Link to="/dashboard" className="btn btn-primary">
-            Acessar Dashboard
+          <Link to="/dashboard" className="btn btn-dark">
+            Acessar a dashboard de vendas
           </Link>
         </div>
       </div>

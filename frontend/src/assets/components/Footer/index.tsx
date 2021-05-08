@@ -8,6 +8,7 @@ const Footer = () => {
             href="https://github.com/biacoelho"
             target="_blank"
             rel="noreferrer"
+            className="text-primary"
           >
             Bia Coelho
           </a>
@@ -21,6 +22,7 @@ const Footer = () => {
               href="https://instagram.com/devsuperior.ig"
               target="_blank"
               rel="noreferrer"
+            className="text-primary"
             >
               @devsuperior.ig
             </a>

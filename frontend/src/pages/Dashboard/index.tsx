@@ -9,7 +9,7 @@ const Dashboard = () => {
     <>
       <NavBar />
       <div className="container">
-        <h1 className="text-primary py-5">Dashboard de Vendas</h1>
+        <h2 className="text-primary py-4">Dashboard de Vendas</h2>
 
         <div className="row px-3 py-2">
           <div className="col-sm-6">
@@ -24,7 +24,7 @@ const Dashboard = () => {
           </div>
         </div>
         <div className="py-4">
-          <h2 className="text-primary">Todas Vendas</h2>
+          <h2 className="text-primary">Todas as Vendas</h2>
         </div>
         <DataTable />
       </div>
