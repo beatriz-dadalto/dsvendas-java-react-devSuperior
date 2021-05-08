@@ -7,7 +7,7 @@
 </ol>
 
 <h1 style="padding: 50px; background: #333333;">
-    <img alt="site metallica" title="#site metallica" src="https://github.com/biacoelho/dsvendas-java-react-devSuperior/blob/master/image-demo.png?raw=true" width=360px/>
+    <img alt="site dsvendas" title="#site dsvendas" src="https://github.com/biacoelho/dsvendas-java-react-devSuperior/blob/master/image-demo.png" width=360px/>
 </h1>
 
 🌎 **Acesse agora:**
@@ -21,6 +21,14 @@
 Semana Spring React - Evento promovido pela escola DevSuperior em 05/2021.
 
 A aplicação consiste em exibir um dashboard a partir de dados fornecidos por um back end construído com Spring Boot.
+
+<br />
+
+### :space_invader: Modelo Conceitual
+
+<h1 style="padding: 50px; background: #333333;">
+    <img alt="modelo conceitual dsvendas" title="#modelo conceitual dsvendas" src="https://github.com/biacoelho/dsvendas-java-react-devSuperior/blob/master/modelo-conceitual.png" width=480px/>
+</h1>
 
 <br />
 
