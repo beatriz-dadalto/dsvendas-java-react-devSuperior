@@ -6,15 +6,16 @@
  <li><strong><a href="#--autor">Autor</a></strong></li>
 </ol>
 
-<h1 style="padding: 50px; background: #333333;">
-    <img alt="site dsvendas" title="#site dsvendas" src="https://github.com/biacoelho/dsvendas-java-react-devSuperior/blob/master/image-demo.png" width=360px/>
-</h1>
+<br />
 
 🌎 **Acesse agora:**
 
-<a href="dsvendas-biacoelho.netlify.app/" target="_blank" title="acessar o site"><strong>dsvendas-biacoelho.netlify.app</strong></a>
+<a href="dsvendas-biacoelho.netlify.app/" target="_blank" title="acessar o site"><strong>https://dsvendas-biacoelho.netlify.app</strong></a>
 
-<br />
+
+<h1 style="padding: 50px; background: #333333;">
+    <img alt="site dsvendas" title="#site dsvendas" src="https://github.com/biacoelho/dsvendas-java-react-devSuperior/blob/master/image-demo.png" width=360px/>
+</h1>
 
 ### [](https://github.com/biacoelho/quiz-react-nextjs-imersao-alura#--sobre-o-projeto) 🔥 Sobre o projeto
 
